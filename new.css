@@ -1,0 +1,109 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+
+	padding: 0;
+	margin: 0;
+	
+
+}
+.top{
+	height: 700px;
+	width: 100%;
+	background: url(110099.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.logo img{
+	width: 300px;
+	float: left;
+}
+.menu{
+
+}
+.menu ul{
+
+
+
+
+}
+.menu ul li{
+	display: inline-block;
+	padding: 10px;
+	margin-top: 80px;
+	margin-right: 50px;
+
+
+
+}
+.menu ul li a{
+	text-decoration: none;
+	color: orange;
+	border-bottom: 1px solid blue;
+	
+
+
+
+
+}
+.menu ul li a:hover{
+	padding: 5px;
+	
+	color: lightblue;
+	transition: all 0.5s ease-in;
+
+}
+.mid{
+	font-size: 50px;
+	color: blue;
+	text-align: center;
+	margin-top: 400px;
+
+}
+.button{
+	float: right;
+
+}
+.down{
+	width: 30%;
+	height: 400px;
+	background: lightblue;
+	text-align: center;
+
+
+}
+.menu2 li{
+
+
+}
+.menu2 li a {
+	text-decoration: none;
+	font-size: 25px;
+	border-bottom: 1px solid blue;
+
+	
+
+
+}
+.menu2 li a:hover{
+	background: blue;
+	color: white;
+	transition: all 0.9s ease-in
+
+}
+.img{
+	float: right;
+}
+
+
+
+
+.footer{
+	text-align: center;
+	background-color:gray;
+	font-size: 20px;
+}
+
